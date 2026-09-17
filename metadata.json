@@ -1,0 +1,6 @@
+{
+  "name": "Electoral PDF Data Extractor",
+  "description": "Production-ready application for extracting real structured voter records from electoral roll PDFs with card detection, Hindi OCR, confidence scoring, and multi-format export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
